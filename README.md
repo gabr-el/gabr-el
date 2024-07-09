@@ -11,7 +11,7 @@
   
   ##
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabr-el&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabr-el&layout=compact&theme=radical)
 
   ##
  
